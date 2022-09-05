@@ -32,3 +32,4 @@
 - [Events](https://www.smartcontract.engineer/challenges/solidity-events) [[solution](./Event.sol)]
 - [Inheritance - Override](https://www.smartcontract.engineer/challenges/solidity-inheritance-override) [[solution](./InheritanceOverride.sol)]
 - [Multiple Inheritance](https://www.smartcontract.engineer/challenges/solidity-multiple-inheritance) [[solution](./MultipleInheritance.sol)]
+- [Calling Parent Constructors](https://www.smartcontract.engineer/challenges/solidity-calling-parent-constructors) [[solution](./CallingParentConstructors.sol)]
