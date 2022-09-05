@@ -27,3 +27,4 @@
 - [Simple Storage](https://www.smartcontract.engineer/challenges/solidity-simple-storage) [[solution](./SimpleStorage.sol)]
 - [Todo List](https://www.smartcontract.engineer/challenges/solidity-todo-list) [[solution](./TodoList.sol)]
 - [Iterable Mapping](https://www.smartcontract.engineer/challenges/solidity-iterable-mapping) [[solution](./IterableMapping.sol)]
+- [Array Shift](https://www.smartcontract.engineer/challenges/solidity-array-shift) [[solution](./ArrayShift.sol)]
