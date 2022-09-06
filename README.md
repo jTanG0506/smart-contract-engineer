@@ -36,3 +36,4 @@
 - [Calling Parent Functions](https://www.smartcontract.engineer/challenges/solidity-calling-parent-functions) [[solution](./CallingParentFunctions.sol)]
 - [Visibility](https://www.smartcontract.engineer/challenges/solidity-visibility) [[solution](./Visibility.sol)]
 - [Immutable](https://www.smartcontract.engineer/challenges/solidity-immutable) [[solution](./Immutable.sol)]
+- [Payable](https://www.smartcontract.engineer/challenges/solidity-payable) [[solution](./Payable.sol)]
