@@ -41,3 +41,4 @@
 - [Sending Ether](https://www.smartcontract.engineer/challenges/solidity-sending-ether) [[solution](./SendEther.sol)]
 - [Ether Wallet](https://www.smartcontract.engineer/challenges/solidity-ether-wallet) [[solution](./EtherWallet.sol)]
 - [Calling Other Contracts](https://www.smartcontract.engineer/challenges/solidity-calling-other-contracts) [[solution](./CallingOtherContracts)]
+- [Interface](https://www.smartcontract.engineer/challenges/solidity-interface) [[solution](./Interface.sol)]
