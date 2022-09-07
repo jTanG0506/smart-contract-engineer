@@ -38,3 +38,4 @@
 - [Immutable](https://www.smartcontract.engineer/challenges/solidity-immutable) [[solution](./Immutable.sol)]
 - [Payable](https://www.smartcontract.engineer/challenges/solidity-payable) [[solution](./Payable.sol)]
 - [Fallback](https://www.smartcontract.engineer/challenges/solidity-fallback) [[solution](./Fallback.sol)]
+- [Sending Ether](https://www.smartcontract.engineer/challenges/solidity-sending-ether) [[solution](./SendEther.sol)]
