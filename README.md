@@ -46,3 +46,4 @@
 - [DelegateCall](https://www.smartcontract.engineer/challenges/solidity-delegatecall) [[solution](./DelegateCall)]
 - [New](https://www.smartcontract.engineer/challenges/solidity-new) [[solution](./New)]
 - [Library](https://www.smartcontract.engineer/challenges/solidity-library) [[solution](./Library.sol)]
+- [Hash Function](https://www.smartcontract.engineer/challenges/solidity-hash-function) [[solution](./HashFunc.sol)]
