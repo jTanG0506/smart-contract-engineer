@@ -51,3 +51,4 @@
 - [Access Control](https://www.smartcontract.engineer/challenges/solidity-access-control) [[solution](./AccessControl.sol)]
 - [Deleting Contracts](https://www.smartcontract.engineer/challenges/solidity-deleting-contracts) [[solution](./Kill.sol)]
 - [Piggy Bank](https://www.smartcontract.engineer/challenges/solidity-piggy-bank) [[solution](./PiggyBank.sol)]
+- [ERC20](https://www.smartcontract.engineer/challenges/solidity-erc20) [[solution](./ERC20)]
