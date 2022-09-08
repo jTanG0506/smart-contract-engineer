@@ -45,3 +45,4 @@
 - [Call](https://www.smartcontract.engineer/challenges/solidity-call) [[solution](./Call)]
 - [DelegateCall](https://www.smartcontract.engineer/challenges/solidity-delegatecall) [[solution](./DelegateCall)]
 - [New](https://www.smartcontract.engineer/challenges/solidity-new) [[solution](./New)]
+- [Library](https://www.smartcontract.engineer/challenges/solidity-library) [[solution](./Library.sol)]
