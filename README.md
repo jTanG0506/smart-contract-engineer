@@ -49,3 +49,4 @@
 - [Hash Function](https://www.smartcontract.engineer/challenges/solidity-hash-function) [[solution](./HashFunc.sol)]
 - [Verifying Signature](https://www.smartcontract.engineer/challenges/solidity-verifying-signature) [[solution](./VerifySig.sol)]
 - [Access Control](https://www.smartcontract.engineer/challenges/solidity-access-control) [[solution](./AccessControl.sol)]
+- [Deleting Contracts](https://www.smartcontract.engineer/challenges/solidity-deleting-contracts) [[solution](./Kill.sol)]
