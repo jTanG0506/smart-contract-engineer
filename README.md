@@ -52,3 +52,4 @@
 - [Deleting Contracts](https://www.smartcontract.engineer/challenges/solidity-deleting-contracts) [[solution](./Kill.sol)]
 - [Piggy Bank](https://www.smartcontract.engineer/challenges/solidity-piggy-bank) [[solution](./PiggyBank.sol)]
 - [ERC20](https://www.smartcontract.engineer/challenges/solidity-erc20) [[solution](./ERC20)]
+- [Multi Sig Wallet](https://www.smartcontract.engineer/challenges/solidity-multi-sig-wallet) [[solution](./MultiSigWallet.sol)]
