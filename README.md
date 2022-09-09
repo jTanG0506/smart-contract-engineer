@@ -56,3 +56,4 @@
 - [Re-Entrancy](https://www.smartcontract.engineer/challenges/solidity-re-entrancy) [[solution](./Re-Entrancy)]
 - [Seven Eth](https://www.smartcontract.engineer/challenges/solidity-seven-eth) [[solution](./SevenEth)]
 - [King of Eth](https://www.smartcontract.engineer/challenges/solidity-king-of-eth) [[solution](./KingOfEth)]
+- [Wallet Hijack](https://www.smartcontract.engineer/challenges/solidity-wallet-hijack) [[solution](./WalletHijack)]
