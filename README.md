@@ -58,3 +58,4 @@
 - [King of Eth](https://www.smartcontract.engineer/challenges/solidity-king-of-eth) [[solution](./KingOfEth)]
 - [Wallet Hijack](https://www.smartcontract.engineer/challenges/solidity-wallet-hijack) [[solution](./WalletHijack)]
 - [Misaligned Storage](https://www.smartcontract.engineer/challenges/solidity-misaligned-storage) [[solution](./MisalignedStorage)]
+- [Bypass Contract Size](https://www.smartcontract.engineer/challenges/solidity-bypass-contract-size) [[solution](./BypassContractSize)]
