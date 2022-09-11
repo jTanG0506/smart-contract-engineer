@@ -61,3 +61,4 @@
 - [Bypass Contract Size](https://www.smartcontract.engineer/challenges/solidity-bypass-contract-size) [[solution](./BypassContractSize)]
 - [Multi Token Bank](https://www.smartcontract.engineer/challenges/solidity-multi-token-bank) [[solution](./MultiTokenBank)]
 - [ETH Flash Loan](https://www.smartcontract.engineer/challenges/solidity-eth-flash-loan) [[solution](./EthLendingPool)]
+- [ERC20 Flash Loan](https://www.smartcontract.engineer/challenges/solidity-erc20-flash-loan) [[solution](./LendingPool)]
