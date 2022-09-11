@@ -59,3 +59,4 @@
 - [Wallet Hijack](https://www.smartcontract.engineer/challenges/solidity-wallet-hijack) [[solution](./WalletHijack)]
 - [Misaligned Storage](https://www.smartcontract.engineer/challenges/solidity-misaligned-storage) [[solution](./MisalignedStorage)]
 - [Bypass Contract Size](https://www.smartcontract.engineer/challenges/solidity-bypass-contract-size) [[solution](./BypassContractSize)]
+- [Multi Token Bank](https://www.smartcontract.engineer/challenges/solidity-multi-token-bank) [[solution](./MultiTokenBank)]
