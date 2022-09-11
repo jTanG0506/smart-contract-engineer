@@ -63,3 +63,4 @@
 - [ETH Flash Loan](https://www.smartcontract.engineer/challenges/solidity-eth-flash-loan) [[solution](./EthLendingPool)]
 - [ERC20 Flash Loan](https://www.smartcontract.engineer/challenges/solidity-erc20-flash-loan) [[solution](./LendingPool)]
 - [Function Selector](https://www.smartcontract.engineer/challenges/solidity-function-selector) [[solution](./FunctionSelector)]
+- [Dutch Auction](https://www.smartcontract.engineer/challenges/solidity-dutch-auction) [[solution](./DutchAuction.sol)]
