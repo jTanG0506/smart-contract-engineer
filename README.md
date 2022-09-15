@@ -65,3 +65,4 @@
 - [Function Selector](https://www.smartcontract.engineer/challenges/solidity-function-selector) [[solution](./FunctionSelector)]
 - [Dutch Auction](https://www.smartcontract.engineer/challenges/solidity-dutch-auction) [[solution](./DutchAuction.sol)]
 - [English Auction](https://www.smartcontract.engineer/challenges/solidity-english-auction) [[solution](./EnglishAuction.sol)]
+- [ERC721](https://www.smartcontract.engineer/challenges/solidity-erc721) [[solution](./ERC721)]
