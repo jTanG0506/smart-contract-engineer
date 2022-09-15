@@ -68,3 +68,4 @@
 - [ERC721](https://www.smartcontract.engineer/challenges/solidity-erc721) [[solution](./ERC721)]
 - [Reentrancy Guard](https://www.smartcontract.engineer/challenges/solidity-reentrancy-guard) [[solution](./ReentrancyGuard)]
 - [Multi Call](https://www.smartcontract.engineer/challenges/solidity-multi-call) [[solution](./MultiCall)]
+- [Create2](https://www.smartcontract.engineer/challenges/solidity-create2) [[solution](./Create2)]
