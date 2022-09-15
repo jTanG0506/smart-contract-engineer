@@ -66,3 +66,4 @@
 - [Dutch Auction](https://www.smartcontract.engineer/challenges/solidity-dutch-auction) [[solution](./DutchAuction.sol)]
 - [English Auction](https://www.smartcontract.engineer/challenges/solidity-english-auction) [[solution](./EnglishAuction.sol)]
 - [ERC721](https://www.smartcontract.engineer/challenges/solidity-erc721) [[solution](./ERC721)]
+- [Reentrancy Guard](https://www.smartcontract.engineer/challenges/solidity-reentrancy-guard) [[solution](./ReentrancyGuard)]
