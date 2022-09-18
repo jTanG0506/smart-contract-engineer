@@ -72,3 +72,4 @@
 - [Signature Replay Attack](https://www.smartcontract.engineer/challenges/solidity-signature-replay-attack) [[solution](./SignatureReplayAttack)]
 - [Hodl](https://www.smartcontract.engineer/challenges/solidity-hodl) [[solution](./Hodl.sol)]
 - [Crowd Fund](https://www.smartcontract.engineer/challenges/solidity-crowd-fund) [[solution](./CrowdFund)]
+- [Multi Delegatecall](https://www.smartcontract.engineer/challenges/solidity-multi-delegatecall) [[solution](./MultiDelegatecall.sol)]
