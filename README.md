@@ -76,3 +76,4 @@
 - [Function Selector Clash](https://www.smartcontract.engineer/challenges/solidity-function-selector-clash) [[solution](./FunctionSelectorClash)]
 - [Time Lock](https://www.smartcontract.engineer/challenges/solidity-time-lock) [[solution](./TimeLock)]
 - [Gas Golf](https://www.smartcontract.engineer/challenges/solidity-gas-golf) [[solution](./GasGolf.sol)] [[wintermute $160m meme]](https://twitter.com/EvgenyGaevoy/status/1572329156142157825)
+- [WETH](https://www.smartcontract.engineer/challenges/solidity-weth) [[solution](./WETH)]
