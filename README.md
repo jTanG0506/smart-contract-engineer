@@ -78,3 +78,4 @@
 - [Gas Golf](https://www.smartcontract.engineer/challenges/solidity-gas-golf) [[solution](./GasGolf.sol)] [[wintermute $160m meme]](https://twitter.com/EvgenyGaevoy/status/1572329156142157825)
 - [WETH](https://www.smartcontract.engineer/challenges/solidity-weth) [[solution](./WETH)]
 - [WETH Bank Hack](https://www.smartcontract.engineer/challenges/solidity-weth-bank-hack) [[solution](./WETHBankHack)]
+- [Vault](https://www.smartcontract.engineer/challenges/solidity-vault) [[solution](./Vault.sol)]
