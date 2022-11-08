@@ -81,3 +81,4 @@
 - [Vault](https://www.smartcontract.engineer/challenges/solidity-vault) [[solution](./Vault.sol)]
 - [Constant Sum AMM](https://www.smartcontract.engineer/challenges/solidity-constant-sum-amm) [[solution](./ConstantSumAMM)]
 - [Constant Product AMM](https://www.smartcontract.engineer/challenges/solidity-constant-product-amm) [[solution](./ConstantProductAMM)]
+- [Staking Rewards](https://www.smartcontract.engineer/challenges/solidity-staking-rewards) [[solution](./StakingRewards)]
