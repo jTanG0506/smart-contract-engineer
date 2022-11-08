@@ -83,3 +83,4 @@
 - [Constant Product AMM](https://www.smartcontract.engineer/challenges/solidity-constant-product-amm) [[solution](./ConstantProductAMM)]
 - [Staking Rewards](https://www.smartcontract.engineer/challenges/solidity-staking-rewards) [[solution](./StakingRewards)]
 - [Debug with Hardhat](https://www.smartcontract.engineer/challenges/solidity-debug-with-hardhat) [[solution](./DebugWithHardhat.sol)]
+- [Bitwise Operators](https://www.smartcontract.engineer/challenges/solidity-bitwise-operators) [[solution](./BitwiseOps.sol)]
