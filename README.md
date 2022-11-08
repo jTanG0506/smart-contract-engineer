@@ -84,3 +84,4 @@
 - [Staking Rewards](https://www.smartcontract.engineer/challenges/solidity-staking-rewards) [[solution](./StakingRewards)]
 - [Debug with Hardhat](https://www.smartcontract.engineer/challenges/solidity-debug-with-hardhat) [[solution](./DebugWithHardhat.sol)]
 - [Bitwise Operators](https://www.smartcontract.engineer/challenges/solidity-bitwise-operators) [[solution](./BitwiseOps.sol)]
+- [Most Significant Bit](https://www.smartcontract.engineer/challenges/solidity-most-significant-bit) [[solution](./MostSignificantBit.sol)]
