@@ -86,3 +86,4 @@
 - [Bitwise Operators](https://www.smartcontract.engineer/challenges/solidity-bitwise-operators) [[solution](./BitwiseOps.sol)]
 - [Most Significant Bit](https://www.smartcontract.engineer/challenges/solidity-most-significant-bit) [[solution](./MostSignificantBit.sol)]
 - [Uniswap V2 Single Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-single-hop-swap) [[solution](./UniswapV2SingleHopSwap)]
+- [Uniswap V2 Multi Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-multi-hop-swap) [[solution](./UniswapV2MultiHopSwap)]
