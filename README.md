@@ -97,3 +97,4 @@
 - [Uniswap V2 Single Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-single-hop-swap) [[solution](./UniswapV2SingleHopSwap)]
 - [Uniswap V2 Multi Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-multi-hop-swap) [[solution](./UniswapV2MultiHopSwap)]
 - [Uniswap V2 Add and Remove Liquidity](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-add-and-remove-liquidity) [[solution](./UniswapV2Liquidity)]
+- [Uniswap V2 Flash Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-flash-swap) [[solution](./UniswapV2FlashSwap)]
