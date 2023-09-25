@@ -98,4 +98,5 @@
 - [Uniswap V2 Multi Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-multi-hop-swap) [[solution](./UniswapV2MultiHopSwap)]
 - [Uniswap V2 Add and Remove Liquidity](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-add-and-remove-liquidity) [[solution](./UniswapV2Liquidity)]
 - [Uniswap V2 Flash Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-flash-swap) [[solution](./UniswapV2FlashSwap)]
+- [Uniswap V3 Single Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v3-uniswap-v3-single-hop-swap) [[solution](./UniswapV3SingleHopSwap)]
 - [Chainlink Price Oracle](https://www.smartcontract.engineer/challenges/chainlink-chainlink-price-oracle) [[solution](./ChainlinkPriceOracle)]
