@@ -96,6 +96,7 @@
 - [ERC1155](https://www.smartcontract.engineer/challenges/solidity-erc1155) [[solution](./ERC1155)]
 - [Assembly Variable](https://www.smartcontract.engineer/challenges/solidity-assembly-variable) [[solution](./AssemblyVariable.sol)]
 - [Assembly If](https://www.smartcontract.engineer/challenges/solidity-assembly-if) [[solution](./AssemblyIf.sol)]
+- [Assembly Error](https://www.smartcontract.engineer/challenges/solidity-assembly-error) [[solution](./AssemblyError.sol)]
 - [Uniswap V2 Single Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-single-hop-swap) [[solution](./UniswapV2SingleHopSwap)]
 - [Uniswap V2 Multi Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-multi-hop-swap) [[solution](./UniswapV2MultiHopSwap)]
 - [Uniswap V2 Add and Remove Liquidity](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-add-and-remove-liquidity) [[solution](./UniswapV2Liquidity)]
