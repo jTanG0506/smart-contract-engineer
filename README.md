@@ -99,6 +99,7 @@
 - [Assembly Error](https://www.smartcontract.engineer/challenges/solidity-assembly-error) [[solution](./AssemblyError.sol)]
 - [Assembly Loop](https://www.smartcontract.engineer/challenges/solidity-assembly-loop) [[solution](./AssemblyLoop.sol)]
 - [Assembly Math](https://www.smartcontract.engineer/challenges/solidity-assembly-math) [[solution](./AssemblyMath.sol)]
+- [Assembly Binary Exponentiation](https://www.smartcontract.engineer/challenges/solidity-assembly-binary-exponentiation) [[solution](./AssemblyBinExp.sol)]
 - [Uniswap V2 Single Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-single-hop-swap) [[solution](./UniswapV2SingleHopSwap)]
 - [Uniswap V2 Multi Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-multi-hop-swap) [[solution](./UniswapV2MultiHopSwap)]
 - [Uniswap V2 Add and Remove Liquidity](https://www.smartcontract.engineer/challenges/uniswap-v2-uniswap-v2-add-and-remove-liquidity) [[solution](./UniswapV2Liquidity)]
