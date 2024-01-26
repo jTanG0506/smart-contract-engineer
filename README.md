@@ -107,3 +107,4 @@
 - [Uniswap V3 Single Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v3-uniswap-v3-single-hop-swap) [[solution](./UniswapV3SingleHopSwap)]
 - [Uniswap V3 Multi Hop Swap](https://www.smartcontract.engineer/challenges/uniswap-v3-uniswap-v3-multi-hop-swap) [[solution](./UniswapV3MultiHopSwap)]
 - [Chainlink Price Oracle](https://www.smartcontract.engineer/challenges/chainlink-chainlink-price-oracle) [[solution](./ChainlinkPriceOracle)]
+- [DAI Proxy](https://www.smartcontract.engineer/challenges/dai-dai-proxy) [[solution](./DaiProxy.sol)]
